@@ -1,3 +1,7 @@
+> To download everything : Click on the green "code" button, a list should pop up. Click on "Download ZIP"
+>
+> To download only 1 file : Click on the desired .package file. You'll be sent to a page highlighting that individual file. On the right side, click "download"
+
 ### Description :
 A pair of mods that changes certain pieces of dialogue from the space stage to be a bit more... vulgar
 
